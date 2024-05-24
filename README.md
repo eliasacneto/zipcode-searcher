@@ -2,7 +2,7 @@
 
 This project is a simple web application developed with Next.js and TypeScript, allowing users to retrieve address information based on a zip code using the ViaCEP API.
 
-Check it out: [Live demo](https://zipcodesearcher.vercel.app)
+Check it out [live demo](https://zipcodesearcher.vercel.app).
 
 ## Features
 
@@ -21,8 +21,8 @@ Check it out: [Live demo](https://zipcodesearcher.vercel.app)
 
 ## Screenshots
 
-<img src='./public/screenshot1.png' alt='screenshot01' width='60%'/>
-<img src='./public/screenshot2.png' alt='screenshot02'  width='60%'/>
+<img src='./public/screenshot1.png' alt='screenshot01' width='80%'/>
+<img src='./public/screenshot2.png' alt='screenshot02'  width='80%'/>
 
 ## How to Run the Project
 

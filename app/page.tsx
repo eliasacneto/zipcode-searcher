@@ -161,17 +161,17 @@ export default function Home() {
         )}
       </div>
       <footer className="h-20 flex gap-2 flex-col w-full justify-center">
-        <h1 className="text-center">
+        <h1 className="text-center text-sm">
           Developed by{" "}
           <a
             href="https://eliasacneto.vercel.app"
             target="_blank"
-            className="font-bold hover:text-red-500 transition-all duration-500"
+            className="font-bold  hover:text-red-500 transition-all duration-500"
           >
             @eliasacneto
           </a>
         </h1>
-        <h3 className="text-center">
+        <h3 className="text-center text-sm">
           Credits:{" "}
           <a
             href="https://viacep.com.br/"
